@@ -1,0 +1,51 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Lora', serif;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+}
+
+#webp{
+	height: 200px;
+	width: auto;
+}
+
+.frontend{
+	height: 100px;
+	width: 100px;
+}
+
+#border{
+	font-size: 1rem;
+}
+
+#navbar{
+	position: sticky;
+	top: 0;
+	background-color: white;
+}
+
+p, #navbar, details{
+	font-family: 'Lora', serif;
+}
+
+ul{
+	list-style: none;
+}
+#profilePicture{
+	height: 300px;
+	width: 330px;
+}
+
+.link{
+	text-decoration: none;
+	color: darkgray;
+}
+
+.email{
+	font-size: 1rem;
+}
