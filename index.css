@@ -70,3 +70,8 @@ ul{
 .email{
 	font-size: 1rem;
 }
+
+#emailsent{
+	text-decoration: none;
+	color: whitesmoke;
+}
