@@ -24,9 +24,30 @@ h1{
 }
 
 #navbar{
-	position: sticky;
+	position: fixed;
 	top: 0;
 	background-color: white;
+}
+
+#landing{
+	
+	padding-top: 80px;
+}
+
+#me{
+	padding-top: 50px;
+}
+
+#projects{
+	padding-top: 60px;
+}
+
+#tools{
+	padding-top: 50px;
+}
+
+#contact{
+	padding-top: 50px;
 }
 
 p, #navbar, details{
